@@ -1,0 +1,7 @@
+undetected-chromedriver
+selenium
+requests
+pandas
+openpyxl
+pyotp
+python-dateutil
