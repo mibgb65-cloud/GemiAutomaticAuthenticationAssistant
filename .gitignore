@@ -48,6 +48,3 @@ htmlcov/
 .DS_Store
 Thumbs.db
 
-# Project local data (sensitive/generated)
-input/
-output/
